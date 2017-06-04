@@ -1,0 +1,9 @@
+name: status
+version: 0.1.0
+
+authors:
+  - Scott Raine <me@nylar.io>
+
+crystal: 0.22.0
+
+license: MIT
